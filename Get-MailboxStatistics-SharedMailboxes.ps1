@@ -1,6 +1,6 @@
 #################################################################################################################
 ###                                                                                                           ###
-###  Script by Terry Munro - http://blog.teamterry.net - https://github.com/TeamTerry/Scripts                 ###
+###  Script by Terry Munro - http://365Admin.com.au - https://github.com/TeamTerry                            ###
 ###  Version 1.0 - 23/01/2017                                                                                 ###
 ###                                                                                                           ###
 ###  Created with the follow links as reference                                                               ###
